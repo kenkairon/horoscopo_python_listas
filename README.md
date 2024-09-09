@@ -1,0 +1,1 @@
+Horoscopo, listas, funciones
